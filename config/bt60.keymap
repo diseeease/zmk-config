@@ -39,7 +39,7 @@
 			bindings = <
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp INS &kp HOME &kp PG_UP
-				&trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DEL &kp END  &kp PG_DN &trans
+				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp DEL &kp END  &kp PG_DN &trans
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  &trans
 				&trans &trans  &trans              &trans                            &trans   &trans   &trans &trans
 			>;
